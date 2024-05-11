@@ -1,3 +1,12 @@
+Aidan Blanco 
+CPSC 458
+
+https://velvety-lily-1fda0b.netlify.app
+
+to use this site you just need to use npm and next.js
+
+for this project the noted resources I used are tailwind, shadcn-ui (a ui componenents library), and the spoonacular API.
+
 1. What are the design principles of your site? (Color pallette, fonts, layout, etc.)
 
     The CSS for my project was created using Tailwind
